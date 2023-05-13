@@ -1,0 +1,187 @@
+\begin{thebibliography}{28}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ackert et~al.(2003)Ackert, Church, and Deaves]{ackert2003emotion}
+Lucy~F Ackert, Bryan~K Church, and Richard Deaves.
+\newblock Emotion and financial markets.
+\newblock \emph{Federal Reserve Bank of Atlanta Economic Review}, 88\penalty0
+  (2), 2003.
+
+\bibitem[Baker and Wurgler(2006)]{baker2006investor}
+Malcolm Baker and Jeffrey Wurgler.
+\newblock Investor sentiment and the cross-section of stock returns.
+\newblock \emph{The journal of Finance}, 61\penalty0 (4):\penalty0 1645--1680,
+  2006.
+
+\bibitem[Bork et~al.(2020)Bork, M{\o}ller, and Pedersen]{bork2020new}
+Lasse Bork, Stig~V M{\o}ller, and Thomas~Q Pedersen.
+\newblock A new index of housing sentiment.
+\newblock \emph{Management Science}, 66\penalty0 (4):\penalty0 1563--1583,
+  2020.
+
+\bibitem[Case and Shiller(1988)]{case1988behavior}
+Karl~E Case and Robert~J Shiller.
+\newblock The behavior of home buyers in boom and post-boom markets, 1988.
+
+\bibitem[Case et~al.(2012)Case, Shiller, and Thompson]{case2012have}
+Karl~E Case, Robert~J Shiller, and Anne Thompson.
+\newblock What have they been thinking? home buyer behavior in hot and cold
+  markets.
+\newblock Technical report, National Bureau of Economic Research, 2012.
+
+\bibitem[Chemtob et~al.(1999)Chemtob, Roitblat, Hamada, Muraoka, Carlson, and
+  Bauer]{chemtob1999compelled}
+Claude~M Chemtob, Herbert~L Roitblat, Roger~S Hamada, Miles~Y Muraoka, John~G
+  Carlson, and Gordon~B Bauer.
+\newblock Compelled attention: The effects of viewing trauma-related stimuli on
+  concurrent task performance in posttraumatic stress disorder.
+\newblock \emph{Journal of Traumatic Stress: Official Publication of The
+  International Society for Traumatic Stress Studies}, 12\penalty0
+  (2):\penalty0 309--326, 1999.
+
+\bibitem[Gandhi et~al.(2021)Gandhi, Malarvizhi~Kumar, Chandra~Babu, and
+  Karthick]{gandhi2021sentiment}
+Usha~Devi Gandhi, Priyan Malarvizhi~Kumar, Gokulnath Chandra~Babu, and Gayathri
+  Karthick.
+\newblock Sentiment analysis on twitter data by using convolutional neural
+  network (cnn) and long short term memory (lstm).
+\newblock \emph{Wireless Personal Communications}, pages 1--10, 2021.
+
+\bibitem[Garcia(2013)]{garcia2013sentiment}
+Diego Garcia.
+\newblock Sentiment during recessions.
+\newblock \emph{The Journal of Finance}, 68\penalty0 (3):\penalty0 1267--1300,
+  2013.
+
+\bibitem[Gurun et~al.(2018)Gurun, Stoffman, and Yonker]{gurun2018trust}
+Umit~G Gurun, Noah Stoffman, and Scott~E Yonker.
+\newblock Trust busting: The effect of fraud on investor behavior.
+\newblock \emph{The Review of Financial Studies}, 31\penalty0 (4):\penalty0
+  1341--1376, 2018.
+
+\bibitem[Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and
+  Hinton]{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock \emph{Advances in neural information processing systems}, 25, 2012.
+
+\bibitem[Malkiel(1989)]{malkiel1989efficient}
+Burton~G Malkiel.
+\newblock Efficient market hypothesis.
+\newblock In \emph{Finance}, pages 127--134. Springer, 1989.
+
+\bibitem[Malkiel(2005)]{malkiel2005reflections}
+Burton~G Malkiel.
+\newblock Reflections on the efficient market hypothesis: 30 years later.
+\newblock \emph{Financial review}, 40\penalty0 (1):\penalty0 1--9, 2005.
+
+\bibitem[Obaid and Pukthuanthong(2022)]{obaid2022picture}
+Khaled Obaid and Kuntara Pukthuanthong.
+\newblock A picture is worth a thousand words: Measuring investor sentiment by
+  combining machine learning and photos from news.
+\newblock \emph{Journal of Financial Economics}, 144\penalty0 (1):\penalty0
+  273--297, 2022.
+
+\bibitem[Ren et~al.(2020)Ren, Yu, and Guan]{ren2020capsunet}
+Yongfeng Ren, Yongtao Yu, and Haiyan Guan.
+\newblock Da-capsunet: A dual-attention capsule u-net for road extraction from
+  remote sensing imagery.
+\newblock \emph{Remote Sensing}, 12\penalty0 (18):\penalty0 2866, 2020.
+
+\bibitem[Rogerson(1994)]{rogerson1994opengl}
+Dale Rogerson.
+\newblock Opengl ii: Windows palettes in rgba mode, 1994.
+
+\bibitem[Salunke and Panicker(2021)]{salunke2021image}
+Vipul Salunke and Suja~Sreejith Panicker.
+\newblock Image sentiment analysis using deep learning.
+\newblock In \emph{Inventive Communication and Computational Technologies},
+  pages 143--153. Springer, 2021.
+
+\bibitem[Singh et~al.(2021)Singh, Babshetti, and
+  Shivaprasad]{singh2021efficient}
+Jyothi~E Singh, Vaijanath Babshetti, and HN~Shivaprasad.
+\newblock Efficient market hypothesis to behavioral finance: A review of
+  rationality to irrationality.
+\newblock \emph{Materials Today: Proceedings}, 2021.
+
+\bibitem[Soo(2018)]{soo2018quantifying}
+Cindy~K Soo.
+\newblock Quantifying sentiment with news media across local housing markets.
+\newblock \emph{The Review of Financial Studies}, 31\penalty0 (10):\penalty0
+  3689--3719, 2018.
+
+\bibitem[Tetlock(2007)]{tetlock2007giving}
+Paul~C Tetlock.
+\newblock Giving content to investor sentiment: The role of media in the stock
+  market.
+\newblock \emph{The Journal of finance}, 62\penalty0 (3):\penalty0 1139--1168,
+  2007.
+
+\bibitem[Yang et~al.(2021{\natexlab{a}})Yang, Chen, Chen, Chen, Li, Cai, Gu,
+  Yin, and Quan]{yang2021isspm}
+Yuer Yang, Siting Chen, Zeguang Chen, Shaobo Chen, Ruolanxin Li, Zhiye Cai,
+  Haotian Gu, Hongyi Yin, and Yujuan Quan.
+\newblock Isspm: A stock prediction model incorporating investor sentiment
+  calculations based on fusedmax.
+\newblock In \emph{2021 8th International Conference on Information,
+  Cybernetics, and Computational Social Systems (ICCSS)}, pages 331--337. IEEE,
+  2021{\natexlab{a}}.
+
+\bibitem[Yang et~al.(2021{\natexlab{b}})Yang, Liu, Chen, Xu, Wang, Liu, and
+  Quan]{yang2021machine}
+Yuer Yang, Ying Liu, Shaobo Chen, Yiming Xu, Yao Wang, Kairui Liu, and Yujuan
+  Quan.
+\newblock Machine learning distribution model and auxiliary diagnosis system
+  based on pathological sections from multiple parts of human beings.
+\newblock In \emph{2021 International Conference on Security, Pattern Analysis,
+  and Cybernetics (SPAC)}, pages 439--444. IEEE, 2021{\natexlab{b}}.
+
+\bibitem[Zhu et~al.(2018)Zhu, Wu, Liu, and Li]{zhu2018sentiment}
+Enwei Zhu, Jing Wu, Hongyu Liu, and Keyang Li.
+\newblock A sentiment index of the housing market: Text mining of narratives on
+  social media.
+\newblock \emph{Available at SSRN 3223566}, 2018.
+
+\bibitem[徐博龙(2019)]{徐博龙2019应用}
+徐博龙.
+\newblock 应用 jieba 和 wordcloud 库的词云设计与优化.
+\newblock \emph{福建电脑}, 35\penalty0 (6):\penalty0 25--28, 2019.
+
+\bibitem[曹雪虹 and 张宗橙(2004)]{曹雪虹2004信息论与编码}
+曹雪虹 and 张宗橙.
+\newblock \emph{信息论与编码}.
+\newblock 清华大学出版社有限公司, 2004.
+
+\bibitem[沈艳 et~al.(2019)沈艳, 陈{\CJKfontspec{宋体}赟}, and
+  黄卓]{沈艳2019文本大数据分析在经济学和金融学中的应用}
+沈艳, 陈{\CJKfontspec{宋体}赟}, and 黄卓.
+\newblock 文本大数据分析在经济学和金融学中的应用:
+  一个文献综述.
+\newblock \emph{经济学 (季刊)}, 18\penalty0 (4):\penalty0 1153--1186,
+  2019.
+
+\bibitem[赵志升 et~al.(2018)赵志升, 靳晓松, 温童童, and
+  梁俊花]{赵志升2018基于}
+赵志升, 靳晓松, 温童童, and 梁俊花.
+\newblock 基于 python-snownlp 的新闻评论数据分析.
+\newblock \emph{科技传播}, 10\penalty0 (18):\penalty0 104--105, 2018.
+
+\bibitem[陈英楠 et~al.(2022)陈英楠, 莫东翠, 唐思华, and
+  李慧慧]{陈英楠2022测量中国房地产政策不确定性研究}
+陈英楠, 莫东翠, 唐思华, and 李慧慧.
+\newblock 测量中国房地产政策不确定性研究.
+\newblock \emph{经济学(季刊)}, 22:\penalty0 405--424, 2022.
+
+\bibitem[黄燕芬 et~al.(2019)黄燕芬, 洪文斌, 余华义,
+  et~al.]{黄燕芬2019市场情绪如何影响城市房价}
+黄燕芬, 洪文斌, 余华义, et~al.
+\newblock 市场情绪如何影响城市房价.
+\newblock \emph{经济理论与经济管理}, 38\penalty0 (7):\penalty0 75,
+  2019.
+
+\end{thebibliography}
