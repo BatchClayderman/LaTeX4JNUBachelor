@@ -8,4 +8,4 @@
 4) 使用该模板前，请先对照模板是否符合当年本科生院毕业论文格式要求。若使用本模板出现意外，例如被批评，本作者概不负责。
 5) 使用本模板生成的毕业论文获得优秀、良好、中等、基本合格或不及格，均与本作者无关；若论文不通过，本作者概不负责。
 
-附：[https://github.com/BatchClayderman/LaTeXChecker/](https://github.com/BatchClayderman/LaTeXChecker/)是一个拓展的 LaTeX 检查程序如下（目前还在内测），允许以主 TeX 文件作为输入进行分析。
+附：[https://github.com/BatchClayderman/LaTeXChecker/](https://github.com/BatchClayderman/LaTeXChecker/) 是一个拓展的 LaTeX 检查程序如下（目前还在内测），允许以主 TeX 文件作为输入进行分析。
