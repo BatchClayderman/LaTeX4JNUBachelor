@@ -8,6 +8,10 @@
 4) 使用该模板前，请先对照模板是否符合当年本科生院毕业论文格式要求。若使用本模板出现意外，例如被批评，本作者概不负责。
 5) 使用本模板生成的毕业论文获得优秀、良好、中等、合格、基本合格或不及格，均与本作者无关；若论文不通过，本作者概不负责。
 
+#### 协议
+
+GPL-3.0 协议仅对模板部分生效，对毕业论文内容不生效。
+
 #### 附言
 
 本项目中提供的 ``checkCite.py`` 可能已经过时，请参阅 [https://github.com/BatchClayderman/LaTeXChecker/](https://github.com/BatchClayderman/LaTeXChecker/)。
